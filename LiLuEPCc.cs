@@ -1,4 +1,4 @@
-// RFID decryption EPC
+// RFID decryption EPC - Class
 // PLATFORM: .NET C#
 // Author: Jose A. Garcia-Uceda Calvo
 // email: jose@lilu-enterprises.com
